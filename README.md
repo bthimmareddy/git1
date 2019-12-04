@@ -1,1 +1,2 @@
 # git1
+THIS IS MY NEW PROJECT
